@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.homepage-container{
+    background-image: url(https://res.cloudinary.com/dpbauifc3/image/upload/v1670141989/web-portfolio/background_xx2byr.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.homepage-body-container{
+    text-align: center;
+    position: relative;
+    top: 15%;
+    color: rgb(59, 61, 59);
+    letter-spacing: 2px;
+    font-size: larger;
+}
+
+
